@@ -119,7 +119,7 @@ This project is designed as a **PWA-ready web platform** and can be converted in
 └── js/legal/
     └── privacy.policy.js
 
----
+----
 
 # ⚙️ Installation (Local Setup)
 
