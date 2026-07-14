@@ -37,7 +37,7 @@ window.MenuConfig = [
     type: "item",
     label: "📥 Download Apk",
     page: "download-apk",
-    url: "11Play.apk"
+    url: "11play.apk"
   },
 
   // ================= DIVIDER =================
